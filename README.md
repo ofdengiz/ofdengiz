@@ -74,7 +74,7 @@ AWS Certified Solutions Architect – Associate and fresh **Computer Systems Tec
 | **[petclinic-microservices-with-db](https://github.com/ofdengiz/petclinic-microservices-with-db)** | End-to-end Jenkins CI/CD for a Spring microservices app on AWS EKS | Jenkins, EKS, ECR, Rancher, Docker |
 | **[terraform-aws-docker-instance](https://github.com/ofdengiz/terraform-aws-docker-instance)** | Terraform pattern for bootstrapping a Dockerized EC2 workload on AWS | Terraform, AWS, Docker |
 | **[ansible-docker-roles](https://github.com/ofdengiz/ansible-docker-roles)** | Reusable Ansible roles for fleet-level Docker + app configuration | Ansible, Docker, Linux |
-| **[cicd-web-app](https://github.com/ofdengiz/cicd-web-app)** | CI/CD pipeline for a web application with automated build + deploy stages | Jenkins, Docker, AWS |
+| **[filmapp](https://github.com/ofdengiz/filmapp)** | React + TypeScript streaming-app demo with a full Jenkins DevSecOps pipeline (SonarQube + OWASP + Trivy) and K8s rollout | React, TypeScript, Docker, Jenkins, Kubernetes |
 
 ### GitHub Stats
 
