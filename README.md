@@ -21,7 +21,7 @@
 
 ### About
 
-AWS Certified Solutions Architect – Associate and fresh **Computer Systems Technician – Networking** graduate from Algonquin College (Apr 2026, GPA 3.75). Previously a DevOps engineer at **Nioyatech** and a System Engineering intern at **Interac Corp.** I ship reliable hybrid environments with Terraform, Ansible, Kubernetes, and Jenkins — and enjoy the full stack from Cisco IOS up to CloudFront distributions.
+AWS Certified Solutions Architect – Associate and fresh **Computer Systems Technician – Networking** graduate from Algonquin College (Apr 2026, GPA 3.75). Previously a DevOps engineer at **Nioyatech** and a System Engineering intern at **Interac Corp.** I ship reliable hybrid environments with Terraform, Ansible, Kubernetes, and Jenkins — and enjoy the full stack from Cisco IOS, OSPF, BGP, and 802.11 wireless up to CloudFront distributions and incident-response runbooks.
 
 ### Currently
 
@@ -29,7 +29,6 @@ AWS Certified Solutions Architect – Associate and fresh **Computer Systems Tec
 - 🚀 Open to full-time **Cloud / DevOps / Systems Engineer** roles in Canada
 - 🔧 Latest build → my portfolio at [omerdengiz.com](https://omerdengiz.com) — static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform across two AWS accounts ([source](https://github.com/ofdengiz/omerdengiz-com))
 - 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service* — 17-VM two-site MSP environment with a Terraform-provisioned kubeadm cluster on AWS
-- 📚 Final-semester coursework: Network Security (CVSS 3.0, NIST SP800-61 r2, Cyber Kill Chain, PCAP analysis), Wireless Fundamentals (802.11 a/b/g/n/ac, 802.1X EAP-PEAP, ArubaOS), Advanced Enterprise Networking (OSPF IPv4/IPv6, MP-BGP, QoS)
 
 ### Certifications
 
