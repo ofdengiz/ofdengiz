@@ -27,7 +27,7 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 
 - 🚀 Open to full-time **Cloud / DevOps / Systems Engineer** roles in Canada
 - 🔧 Latest build → my portfolio at [omerdengiz.com](https://www.omerdengiz.com) — static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform and rebuilt in a new AWS account after the original became unreachable ([source](https://github.com/ofdengiz/omerdengiz-com))
-- 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service* — owned the 17-VM second site of a two-site MSP build, extended into AWS with Terraform and a kubeadm cluster
+- 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service* — owned the 17-VM second site of a two-site MSP build, extended into AWS with Terraform and a kubeadm cluster ([cloud site source](https://github.com/ofdengiz/clearroots-k8s-aws))
 
 ### Certifications
 
@@ -70,6 +70,7 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
+| **[clearroots-k8s-aws](https://github.com/ofdengiz/clearroots-k8s-aws)** | Capstone cloud site — two EC2 nodes bootstrapped into a kubeadm cluster, NodePort-backed workload, Caddy TLS edge, all in Terraform | Terraform, AWS, Kubernetes, Docker, Caddy |
 | **[omerdengiz.com](https://github.com/ofdengiz/omerdengiz-com)** | Personal portfolio — static AWS site with edge compute, fully IaC'd | AWS, CloudFront, Lambda@Edge, Terraform |
 | **[petclinic-microservices-with-db](https://github.com/ofdengiz/petclinic-microservices-with-db)** | End-to-end Jenkins CI/CD for a Spring microservices app on AWS EKS | Jenkins, EKS, ECR, Rancher, Docker |
 | **[terraform-aws-docker-instance](https://github.com/ofdengiz/terraform-aws-docker-instance)** | Terraform pattern for bootstrapping a Dockerized EC2 workload on AWS | Terraform, AWS, Docker |
