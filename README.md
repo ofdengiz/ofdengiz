@@ -21,13 +21,13 @@
 
 ### About
 
-AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Systems Technician – Networking** from Algonquin College, graduated with honours (GPA 3.75). Previously a DevOps engineer at **Nioyatech** and a System Engineering intern at **Interac Corp.** I ship reliable hybrid environments with Terraform, Ansible, Kubernetes, and Jenkins — and enjoy the full stack from Cisco IOS, OSPF and VLAN segmentation up to CloudFront distributions and incident-response runbooks.
+AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Systems Technician – Networking** from Algonquin College, graduated with honours (GPA 3.75). Previously a DevOps engineer at **Nioyatech** and a System Engineering intern at **Interac Corp.** Recent work spans Terraform, Ansible, Kubernetes and Jenkins, and runs the full stack from Cisco IOS, OSPF and VLAN segmentation up to CloudFront distributions and incident-response runbooks.
 
 ### Currently
 
 - 🚀 Open to full-time **Cloud / DevOps / Systems Engineer** roles in Canada
-- 🔧 Latest build → my portfolio at [omerdengiz.com](https://www.omerdengiz.com) — static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform and rebuilt in a new AWS account after the original became unreachable ([source](https://github.com/ofdengiz/omerdengiz-com))
-- 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service* — owned the 17-VM second site of a two-site MSP build, extended into AWS with Terraform and a kubeadm cluster ([cloud site source](https://github.com/ofdengiz/clearroots-k8s-aws))
+- 🔧 Latest build → my portfolio at [omerdengiz.com](https://www.omerdengiz.com): static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform and rebuilt in a new AWS account after the original became unreachable ([source](https://github.com/ofdengiz/omerdengiz-com))
+- 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service*: owned the 17-VM second site of a two-site MSP build, extended into AWS with Terraform and a kubeadm cluster ([cloud site source](https://github.com/ofdengiz/clearroots-k8s-aws))
 
 ### Certifications
 
@@ -70,8 +70,8 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| **[clearroots-k8s-aws](https://github.com/ofdengiz/clearroots-k8s-aws)** | Capstone cloud site — two EC2 nodes bootstrapped into a kubeadm cluster, NodePort-backed workload, Caddy TLS edge, all in Terraform | Terraform, AWS, Kubernetes, Docker, Caddy |
-| **[omerdengiz.com](https://github.com/ofdengiz/omerdengiz-com)** | Personal portfolio — static AWS site with edge compute, fully IaC'd | AWS, CloudFront, Lambda@Edge, Terraform |
+| **[clearroots-k8s-aws](https://github.com/ofdengiz/clearroots-k8s-aws)** | Capstone cloud site: two EC2 nodes bootstrapped into a kubeadm cluster, NodePort-backed workload, Caddy TLS edge, all in Terraform | Terraform, AWS, Kubernetes, Docker, Caddy |
+| **[omerdengiz.com](https://github.com/ofdengiz/omerdengiz-com)** | Personal portfolio: static AWS site with edge compute, fully IaC'd | AWS, CloudFront, Lambda@Edge, Terraform |
 | **[petclinic-microservices-with-db](https://github.com/ofdengiz/petclinic-microservices-with-db)** | End-to-end Jenkins CI/CD for a Spring microservices app on AWS EKS | Jenkins, EKS, ECR, Rancher, Docker |
 | **[terraform-aws-docker-instance](https://github.com/ofdengiz/terraform-aws-docker-instance)** | Terraform pattern for bootstrapping a Dockerized EC2 workload on AWS | Terraform, AWS, Docker |
 | **[ansible-docker-roles](https://github.com/ofdengiz/ansible-docker-roles)** | Reusable Ansible roles for fleet-level Docker + app configuration | Ansible, Docker, Linux |
@@ -86,8 +86,8 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 
 ### Languages
 
-🇬🇧 English (Professional) · 🇹🇷 Turkish (Native) · 🇨🇳 Mandarin Chinese (Advanced — HSK Level 6)
+🇬🇧 English (Professional) · 🇹🇷 Turkish (Native) · 🇨🇳 Mandarin Chinese (Advanced, HSK Level 6)
 
 ---
 
-<sub>Thanks for stopping by. The best way to see what I actually build is <a href="https://www.omerdengiz.com">omerdengiz.com</a> — it's a tiny AWS demo in its own right.</sub>
+<sub>Thanks for stopping by. The best way to see what I actually build is <a href="https://www.omerdengiz.com">omerdengiz.com</a>, which is a small AWS deployment in its own right.</sub>
