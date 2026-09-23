@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omer 👋</h1>
 
 <p align="center">
-  <strong>Cloud Infrastructure · DevOps · Systems Engineer</strong><br/>
+  <strong>Systems Administration · Cloud Infrastructure · Networking</strong><br/>
   <sub>Kanata, Ottawa ON 🇨🇦 · open to full-time opportunities</sub>
 </p>
 
@@ -27,7 +27,7 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 
 - 🚀 Open to full-time **Cloud / DevOps / Systems Engineer** roles in Canada
 - 🔧 Latest build → my portfolio at [omerdengiz.com](https://www.omerdengiz.com) — static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform and rebuilt in a new AWS account after the original became unreachable ([source](https://github.com/ofdengiz/omerdengiz-com))
-- 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service* — 17-VM two-site MSP environment with a Terraform-provisioned kubeadm cluster on AWS
+- 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service* — owned the 17-VM second site of a two-site MSP build, extended into AWS with Terraform and a kubeadm cluster
 
 ### Certifications
 
