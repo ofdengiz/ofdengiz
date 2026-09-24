@@ -21,7 +21,7 @@
 
 ### About
 
-AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Systems Technician – Networking** from Algonquin College, graduated with honours (GPA 3.75). Previously a DevOps engineer at **Nioyatech** and a System Engineering intern at **Interac Corp.** Recent work spans Terraform, Ansible, Kubernetes and Jenkins, and runs the full stack from Cisco IOS, OSPF and VLAN segmentation up to CloudFront distributions and incident-response runbooks.
+**Computer Systems Technician – Networking** from Algonquin College, graduated with honours (GPA 3.75). Holds a current RCMP Facility Access Security Check (Level 2). Previously a DevOps engineer at **Nioyatech** and a System Engineering intern at **Interac Corp.** Recent work spans Terraform, Ansible, Kubernetes and Jenkins, and runs the full stack from Cisco IOS, OSPF and VLAN segmentation up to CloudFront distributions and incident-response runbooks.
 
 ### Currently
 
@@ -31,10 +31,8 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 
 ### Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS SAA">
-  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS CCP">
-</p>
+- AWS Certified Solutions Architect – Associate (Aug 2023 – Aug 2026, expired)
+- AWS Certified Cloud Practitioner (Jul 2023 – Jul 2026, expired)
 
 <sub>Training: Cisco Networking Academy, CCNA: Switching, Routing and Wireless Essentials (course)</sub>
 
