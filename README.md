@@ -26,7 +26,7 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 ### Currently
 
 - 🚀 Open to full-time **Cloud / DevOps / Systems Engineer** roles in Canada
-- 🔧 Latest build → my portfolio at [omerdengiz.com](https://www.omerdengiz.com): static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform and rebuilt in a new AWS account after the original became unreachable ([source](https://github.com/ofdengiz/omerdengiz-com))
+- 🔧 Latest build → my portfolio at [omerdengiz.com](https://www.omerdengiz.com): static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform ([source](https://github.com/ofdengiz/omerdengiz-com))
 - 📝 Capstone: *Hybrid MSP Infrastructure & AWS Kubernetes Service*: owned the 17-VM second site of a two-site MSP build, extended into AWS with Terraform and a kubeadm cluster ([cloud site source](https://github.com/ofdengiz/clearroots-k8s-aws))
 
 ### Certifications
