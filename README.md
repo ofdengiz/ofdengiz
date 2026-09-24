@@ -34,10 +34,11 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 <p>
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS SAA">
   <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS CCP">
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Switching_Routing_Wireless-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="CCNA">
 </p>
 
-### Tech I ship with
+<sub>Training: Cisco Networking Academy, CCNA: Switching, Routing and Wireless Essentials (course)</sub>
+
+### Tooling
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
@@ -72,17 +73,10 @@ AWS Certified Solutions Architect – Associate (2023–2026) and **Computer Sys
 | :-- | :-- | :-- |
 | **[clearroots-k8s-aws](https://github.com/ofdengiz/clearroots-k8s-aws)** | Capstone cloud site: two EC2 nodes bootstrapped into a kubeadm cluster, NodePort-backed workload, Caddy TLS edge, all in Terraform | Terraform, AWS, Kubernetes, Docker, Caddy |
 | **[omerdengiz.com](https://github.com/ofdengiz/omerdengiz-com)** | Personal portfolio: static AWS site with edge compute, fully IaC'd | AWS, CloudFront, Lambda@Edge, Terraform |
-| **[petclinic-microservices-with-db](https://github.com/ofdengiz/petclinic-microservices-with-db)** | End-to-end Jenkins CI/CD for a Spring microservices app on AWS EKS | Jenkins, EKS, ECR, Rancher, Docker |
+| **[petclinic-microservices-with-db](https://github.com/ofdengiz/petclinic-microservices-with-db)** | End-to-end Jenkins CI/CD for a Spring microservices app on AWS EKS, deployed with Helm charts | Jenkins, EKS, Helm, ECR, Rancher, Docker |
 | **[terraform-aws-docker-instance](https://github.com/ofdengiz/terraform-aws-docker-instance)** | Terraform pattern for bootstrapping a Dockerized EC2 workload on AWS | Terraform, AWS, Docker |
 | **[ansible-docker-roles](https://github.com/ofdengiz/ansible-docker-roles)** | Reusable Ansible roles for fleet-level Docker + app configuration | Ansible, Docker, Linux |
-| **[filmapp](https://github.com/ofdengiz/filmapp)** | React + TypeScript streaming-app demo with a full Jenkins DevSecOps pipeline (SonarQube + OWASP + Trivy) and K8s rollout | React, TypeScript, Docker, Jenkins, Kubernetes |
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ofdengiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofdengiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165">
-</p>
+| **[aws-django-blog-asg](https://github.com/ofdengiz/aws-django-blog-asg)** | Multi-AZ AWS architecture: ALB and Auto Scaling tier, RDS MySQL in private subnets, CloudFront edge | VPC, ALB, ASG, RDS, CloudFront |
 
 ### Languages
 
