@@ -11,7 +11,7 @@ built with Terraform, Ansible and Kubernetes.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [clearroots-k8s-aws](https://github.com/ofdengiz/clearroots-k8s-aws) | Cloud site of a two-site hybrid environment: kubeadm on EC2 behind Caddy TLS | Terraform, AWS, Kubernetes |
+| [clearroots-k8s-aws](https://github.com/ofdengiz/clearroots-k8s-aws) | AWS extension of a two-site hybrid environment: kubeadm on EC2 behind Caddy TLS | Terraform, AWS, Kubernetes |
 | [omerdengiz-com](https://github.com/ofdengiz/omerdengiz-com) | Portfolio on S3, CloudFront and Lambda@Edge with build-time CSP checks | AWS, Terraform, Astro |
 | [petclinic-microservices-with-db](https://github.com/ofdengiz/petclinic-microservices-with-db) | Multi-environment Jenkins CI/CD to EKS with Helm | Jenkins, EKS, Helm |
 | [aws-django-blog-asg](https://github.com/ofdengiz/aws-django-blog-asg) | Multi-AZ ALB and Auto Scaling tier with private RDS | AWS, RDS, CloudFront |
