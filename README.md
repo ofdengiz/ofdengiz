@@ -15,7 +15,7 @@ built with Terraform, Ansible and Kubernetes.
 | [omerdengiz-com](https://github.com/ofdengiz/omerdengiz-com) | Portfolio on S3, CloudFront and Lambda@Edge with build-time CSP checks | AWS, Terraform, Astro |
 | [petclinic-microservices-with-db](https://github.com/ofdengiz/petclinic-microservices-with-db) | Multi-environment Jenkins CI/CD to EKS with Helm | Jenkins, EKS, Helm |
 | [aws-django-blog-asg](https://github.com/ofdengiz/aws-django-blog-asg) | Multi-AZ ALB and Auto Scaling tier with private RDS | AWS, RDS, CloudFront |
-| [terraform-aws-patterns](https://github.com/ofdengiz/terraform-aws-patterns) | S3 static site behind CloudFront with ACM and Route 53 | Terraform, AWS |
+| [terraform-aws-docker-instance](https://github.com/ofdengiz/terraform-aws-docker-instance) | Terraform module for a Dockerized EC2 host with a parameterised security group | Terraform, AWS, Docker |
 | [ansible-docker-roles](https://github.com/ofdengiz/ansible-docker-roles) | Ansible roles for Docker hosts and containerized services | Ansible, Linux |
 
 ## Stack
